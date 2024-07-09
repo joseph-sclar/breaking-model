@@ -1,0 +1,1 @@
+{"avg_monthly_onsite_sales": "float64", "avg_monthly_uvs": "float64", "CPO_Retargeting": "float64", "landing_rate": "float64", "sales": "float64", "business_model_per_order": "int64"}
